@@ -8,6 +8,6 @@
 ### Architecture Followed
 
 <p align'center'>
-  <img src='https://raw.githubusercontent.com/dhanushnayak/Image_Super_Resolution/master/images/encoder.png' height="400" width="400"> <br/> 
+  <img src='https://raw.githubusercontent.com/dhanushnayak/Image_Super_Resolution/master/images/encoder.png' height="400" width="400"> 
   <img src='https://raw.githubusercontent.com/dhanushnayak/Image_Super_Resolution/master/images/decoder.png' height="400" width="400"> 
 </p>
